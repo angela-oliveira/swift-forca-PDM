@@ -1,9 +1,4 @@
-//
-//  Forca.swift
-//  forca
-//
-//  Created by TecWeb on 25/05/21.
-//
+
 
 import Foundation
 
